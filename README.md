@@ -30,7 +30,7 @@
 
 ## 🛠 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,mongodb,netlify" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,mongodb,netlify,react,nodejs" alt="Tech Stack"/>
 </p>
 
 ---

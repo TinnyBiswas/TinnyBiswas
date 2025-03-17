@@ -38,7 +38,7 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TinnyBiswas&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>  
-  <img src="https://streak-stats.demolab.com/?user=TinnyBiswas&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)"
 </p>
 
 <p align="center">
